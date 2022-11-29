@@ -2,6 +2,8 @@
 I'm a frontend developer
 
 My projects:
+- Rroject managment - team project on Angular - https://pomakom-rsteam.github.io/project-management-app-team2/
+- Youtube - personal project using Youtube Data API
 - RS-lang - https://github.com/Kate4ka007/RS-Lang
 - Online-store - https://github.com/rolling-scopes-school/kate4ka007-JSFE2022Q1/pull/17
 - Async-race - https://github.com/rolling-scopes-school/kate4ka007-JSFE2022Q1/pull/18 (to view you need to clone the repository with async-race-api - https://github.com/mikhama/async-race-api)
