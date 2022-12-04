@@ -1,5 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 I'm a frontend developer
+<br>
+
+### :hammer_and_wrench: Languages and Tools :
 
 <div id="badges">
   <img src="https://img.shields.io/badge/-TypeScript-blue" alt="typescript Badge"/>
@@ -20,14 +23,19 @@ I'm a frontend developer
 </div>
 <br>
 
-**My projects:**
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kate4ka007&theme=dark&background=000000)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kate4ka007&theme=dark&show_icons=true)
+
+### My projects:
 - Rroject managment - team project on Angular - https://pomakom-rsteam.github.io/project-management-app-team2/
 - Youtube - personal project on Angular using Youtube Data API, Rxjs, NgRx - https://rolling-scopes-school.github.io/kate4ka007-ANGULAR2022Q3/
 - RS-lang - team project on Angular - https://github.com/Kate4ka007/RS-Lang
 - Online-store - personal project on Typescript - https://rolling-scopes-school.github.io/kate4ka007-JSFE2022Q1/Online-Store/index.html
 - Async-race - personal project on Typescript - https://github.com/rolling-scopes-school/kate4ka007-JSFE2022Q1/pull/18 (to view you need to clone the repository with async-race-api - https://github.com/mikhama/async-race-api)
 
-**My first projects:**
+### My first projects:
 - Shelter - personal project on pure Javascript, HTML, SCSS - https://rolling-scopes-school.github.io/kate4ka007-JSFE2022Q1/shelter/pages/main/
 - Virtual-keyboard - personal project on pure Javascript, HTML, SCSS - https://kate4ka007.github.io/virtual-keyboard/virtual-keyboard/
 - Portfolio - personal project on pure Javascript, HTML, CSS - https://kate4ka007.github.io/RSS-portfolio/
