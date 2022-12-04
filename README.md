@@ -23,13 +23,17 @@ I'm a frontend developer
 </div>
 <br>
 
+
+### My CV:
+https://kate4ka007.github.io/cv/
+
+<a href="https://www.linkedin.com/in/katsiaryna-shlemena-142a60233/"><img src="https://img.shields.io/badge/-Linkedin-blue" alt="css Badge"/></a>
+<a href="https://telegram.me/kate4ka007"><img src="https://img.shields.io/badge/-Telegram-blue" alt="css Badge"/></a>
+
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kate4ka007&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kate4ka007&theme=dark&show_icons=true)
-
-
-### My CV: https://kate4ka007.github.io/cv/
 
 ### My projects:
 - Rroject managment - team project on Angular - https://pomakom-rsteam.github.io/project-management-app-team2/
