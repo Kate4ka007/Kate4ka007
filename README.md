@@ -28,6 +28,9 @@ I'm a frontend developer
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kate4ka007&theme=dark&show_icons=true)
 
+
+### My CV: https://kate4ka007.github.io/cv/
+
 ### My projects:
 - Rroject managment - team project on Angular - https://pomakom-rsteam.github.io/project-management-app-team2/
 - Youtube - personal project on Angular using Youtube Data API, Rxjs, NgRx - https://rolling-scopes-school.github.io/kate4ka007-ANGULAR2022Q3/
