@@ -40,10 +40,10 @@ https://kate4ka007.github.io/cv/
 - Youtube - personal project on Angular using Youtube Data API, Rxjs, NgRx - https://kate4ka007.github.io/YouTube/
 - RS-lang - team project on Angular - https://github.com/Kate4ka007/RS-Lang
 - Online-store - personal project on Typescript - https://kate4ka007.github.io/Online-store/
-- Async-race - personal project on Typescript - https://github.com/rolling-scopes-school/kate4ka007-JSFE2022Q1/pull/18 (to view you need to clone the repository with async-race-api - https://github.com/mikhama/async-race-api)
+- Async-race - personal project on Typescript - https://github.com/Kate4ka007/async-race/pull/1 (to view you need to clone the repository with async-race-api - https://github.com/mikhama/async-race-api)
 
 ### My first projects:
-- Shelter - personal project on pure Javascript, HTML, SCSS - https://rolling-scopes-school.github.io/kate4ka007-JSFE2022Q1/shelter/pages/main/
+- Shelter - personal project on pure Javascript, HTML, SCSS - https://kate4ka007.github.io/shelter/pages/main/
 - Virtual-keyboard - personal project on pure Javascript, HTML, SCSS - https://kate4ka007.github.io/virtual-keyboard/virtual-keyboard/
 - Portfolio - personal project on pure Javascript, HTML, CSS - https://kate4ka007.github.io/RSS-portfolio/
 - Memory-game - personal project on pure Javascript, HTML, CSS - https://kate4ka007.github.io/memory-game/
