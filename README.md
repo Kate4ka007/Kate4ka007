@@ -39,7 +39,7 @@ https://kate4ka007.github.io/cv/
 - Rroject managment - team project on Angular - https://pomakom-rsteam.github.io/project-management-app-team2/
 - Youtube - personal project on Angular using Youtube Data API, Rxjs, NgRx - https://kate4ka007.github.io/YouTube/
 - RS-lang - team project on Angular - https://github.com/Kate4ka007/RS-Lang
-- Online-store - personal project on Typescript - https://rolling-scopes-school.github.io/kate4ka007-JSFE2022Q1/Online-Store/index.html
+- Online-store - personal project on Typescript - https://kate4ka007.github.io/Online-store/
 - Async-race - personal project on Typescript - https://github.com/rolling-scopes-school/kate4ka007-JSFE2022Q1/pull/18 (to view you need to clone the repository with async-race-api - https://github.com/mikhama/async-race-api)
 
 ### My first projects:
