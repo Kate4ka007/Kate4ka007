@@ -19,7 +19,8 @@ I'm a frontend developer
   <img src="https://img.shields.io/badge/-Rxjs-ff69b4" alt="rxjs Badge"/>
   <img src="https://img.shields.io/badge/-NgRx-blueviolet" alt="ngrx Badge"/>
   <img src="https://img.shields.io/badge/-OOP-yellow" alt="oop Badge"/>
-  <img src="https://img.shields.io/badge/-SQL-red" alt="sql Badge"/>  
+  <img src="https://img.shields.io/badge/-SQL-red" alt="sql Badge"/>
+  <img src="https://img.shields.io/badge/-GraphQL-green" alt="qraphQl Badge"/>
 </div>
 <br>
 
