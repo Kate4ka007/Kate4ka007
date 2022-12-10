@@ -34,7 +34,9 @@ https://kate4ka007.github.io/cv/
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kate4ka007&theme=dark&background=000000)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kate4ka007&theme=dark&show_icons=true)
+
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=kate4ka007&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 ### My projects:
 - Rroject managment - team project on Angular - https://pomakom-rsteam.github.io/project-management-app-team2/
